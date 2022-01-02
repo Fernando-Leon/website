@@ -186,3 +186,33 @@
         font-size: 11px;
     }
 }
+
+@media (max-width: 300px){
+    #title {
+        font-size: 22px;
+    }
+    .sub-title {
+        font-size: 19px;
+    }
+    #img-caption {
+        font-size: 11px;
+    }
+    #tribute-info {
+        line-height: 18px;
+        font-size: 14px;
+    }
+    #info-extra {
+        padding: 10px;    
+        font-size: 14px;
+    }
+    #list {
+        font-size: 14px;
+    }
+    #list .list-group {
+        height: 120px;
+    }
+    #content-frase {
+        width: 80%;
+        font-size: 11px;
+    }
+}
